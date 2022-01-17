@@ -13,5 +13,6 @@ namespace CurrencyConverter_Database
     /// </summary>
     public partial class App : Application
     {
+
     }
 }
